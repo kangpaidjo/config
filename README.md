@@ -1,2 +1,2 @@
 # config
-my config
+this is my config
