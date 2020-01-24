@@ -12,3 +12,5 @@ Face detection ini mendeteksi wajah pada gambar yang akan digunakan.
 Cara Menggunakan
 
 python find_faces_in_picture.py path/gambar.jpg
+
+Visit https://paidjo.com
