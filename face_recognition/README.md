@@ -7,4 +7,5 @@ Mendetek Wajah pada sebuah Gambar
 5. install plugin "pip install opencv-python"
 
 Cara Menggunakan
+
 python find_faces_in_picture.py path/gambar.jpg
