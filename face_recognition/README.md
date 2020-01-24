@@ -1,5 +1,7 @@
 <h1>Mendetek Wajah pada sebuah Gambar</h1>
 
+Face detection ini mendeteksi wajah pada gambar yang akan digunakan.
+
 1. install python
 2. upgrade pip "python -m pip install --upgrade pip"
 3. instal plugin "pip install CMake"
