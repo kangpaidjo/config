@@ -1,8 +1,10 @@
 from PIL import Image
 import face_recognition
+import sys
 
 # Load the jpg file into a numpy array
-image = face_recognition.load_image_file("biden.jpg")
+imagePath = sys.argv[1]
+image = face_recognition.load_image_file(imagePath)
 
 # Find all the faces in the image using the default HOG-based model.
 # This method is fairly accurate, but not as accurate as the CNN model and not GPU accelerated.
